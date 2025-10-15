@@ -4,3 +4,4 @@ requests
 shazamio
 pydub
 imageio-ffmpeg
+beautifulsoup4
