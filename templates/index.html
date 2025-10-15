@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Rádios Futuristas Angola</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <h1>🎧 Rádios Futuristas Neon</h1>
+    <div class="hdr-right">
+      <button id="themeBtn" class="btn small">🌗</button>
+    </div>
+  </header>
+
+  <main class="content">
+    <div class="controls-top">
+      <button id="allBtn" class="btn">📻 Todas</button>
+      <button id="favBtn" class="btn">⭐ Favoritos</button>
+      <button id="histBtn" class="btn">🕓 Histórico</button>
+    </div>
+
+    <div class="stations" id="stations">A carregar rádios...</div>
+  </main>
+
+  <footer>
+    <div class="player-top">
+      <img id="coverImg" class="cover hidden" alt="Capa">
+      <div class="meta">
+        <div id="stationName" class="station-name">Nenhuma rádio a tocar</div>
+        <div id="songInfo" class="song-info">—</div>
+      </div>
+    </div>
+    <div class="player-row">
+      <audio id="player" controls></audio>
+    </div>
+  </footer>
+
+  <div id="popup" class="popup hidden">
+    <div class="popup-content">
+      <h2 id="popup-title"></h2>
+      <div id="popup-list"></div>
+      <button id="closePopup" class="btn">Fechar</button>
+    </div>
+  </div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

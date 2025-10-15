@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⭐ Favoritos & Histórico</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>⭐ Favoritos & Histórico</h1>
+    <a href="/" class="nav-btn">🏠 Voltar</a>
+  </header>
+
+  <main id="fav-container">
+    <section>
+      <h2>Favoritos</h2>
+      <ul id="fav-list"></ul>
+    </section>
+    <section>
+      <h2>Histórico</h2>
+      <ul id="history-list"></ul>
+    </section>
+  </main>
+
+  <script>
+    const favList = document.getElementById("fav-list");
+    const historyList = document.getElementById("history-list");
+
+    const favs = JSON.parse(localStorage.getItem("angola_radio_fav_v3")) || [];
+    const hist = JSON.parse(localStorage.getItem("angola_radio_hist_v3")) || [];
+
+    if (favs.length === 0) favList.innerHTML = "<li>Sem favoritos ainda.</li>";
+    else favList.innerHTML = favs.map(f => `<li>${f}</li>`).join("");
+
+    if (hist.length === 0) historyList.innerHTML = "<li>Nenhuma rádio ouvida.</li>";
+    else historyList.innerHTML = hist.map(h => `<li>${h}</li>`).join("");
+  </script>
+</body>
+</html>

@@ -1,0 +1,266 @@
+[
+    {
+        "id": "ao.ecclesia",
+        "name": "Radio Ecclesia",
+        "stream": "https://mediaserv33.live-streams.nl:8089/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/31685.v6.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.rnacanala",
+        "name": "RNA - Canal A",
+        "stream": "https://paineldj5.com.br:20087/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/2/31682.v13.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.kuiabuefm",
+        "name": "Radio Kuia Bue",
+        "stream": "https://a11.asurahosting.com:7400/radio.aac",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/1/47681.v25.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.famastar",
+        "name": "Radio FamaStar",
+        "stream": "http://sirius.shoutca.st:8527/stream/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/8/31688.v5.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.rfiportugues",
+        "name": "RFI Português",
+        "stream": "https://rfienportugais64k.ice.infomaniak.ch/rfienportugais-64.mp3",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/4/37794.v4.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.muzangala",
+        "name": "Radio Muzangala",
+        "stream": "http://108.59.11.81:10053/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/2/31702.v10.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.kajipaixaomusica",
+        "name": "KAJI FM &#34;Paixão &amp; Música&#34;",
+        "stream": "https://servidor13-1.brlogic.com:7010/live",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/3/97693.v12.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.maria896",
+        "name": "Rádio Maria Angola",
+        "stream": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream.mp3",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/0/135750.v1.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.jihenda",
+        "name": "Rádio Jihenda",
+        "stream": "https://s02.brascast.com:7830/live",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/3/137803.v6.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.powermix",
+        "name": "Powermix FM",
+        "stream": "https://cast.iplayradio.net/listen/powermixfm/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/85815.v9.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.x903",
+        "name": "Radio X 90.3",
+        "stream": "https://servidor24-4.brlogic.com:7004/live?source=website",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/107585.v7.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.lac",
+        "name": "Luanda Antena Comercial",
+        "stream": "https://stream.zenolive.com/cg3yk1gr7a5tv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/7/31687.v5.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.f8",
+        "name": "Radio F8",
+        "stream": "http://193.164.131.215:9302/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/9/97819.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.digitalgospel",
+        "name": "Rede Digital Gospel",
+        "stream": "https://stream.zeno.fm/6nwb80z2dy8uv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/8/104878.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.ebnezer",
+        "name": "Ebnezer Radio",
+        "stream": "http://08.stmip.net:10028/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/3/31703.v6.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.kanawa",
+        "name": "Radio Kanawa",
+        "stream": "http://freeuk23.listen2myradio.com:10003/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/8/93968.v12.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.zango8000",
+        "name": "RADIO ZANGO 8000",
+        "stream": "https://stream.zeno.fm/9k2yd0vmdc9uv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/4/132504.v4.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.valertv",
+        "name": "Rádio Valerfm",
+        "stream": "https://stream.zeno.fm/ub1fy05s538uv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/7/114397.v9.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.ngola",
+        "name": "Ngola Radio",
+        "stream": "https://stream.zenolive.com/4xa2ects7a5tv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/7/31707.v5.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.interkinoisangola",
+        "name": "Interkinois Angola",
+        "stream": "https://cast4.asurahosting.com/proxy/deograt3/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/150315.v1.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.jeovasabaoth",
+        "name": "Rádio Jeova Sabaoth",
+        "stream": "https://stream.zeno.fm/ji8igeihp1avv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/8/131048.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.antennawebluanda",
+        "name": "Antenna Web Luanda",
+        "stream": "https://tinyurl.com/AntennawebAngola",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/2/134192.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.hero",
+        "name": "Hero Radio (Angola)",
+        "stream": "https://a2.asurahosting.com:6790/angola.mp3",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/logo/4/139034.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.somnewsangola",
+        "name": "Som News Angola",
+        "stream": "https://stream.zeno.fm/y1dkpe3pnd0uv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/2/94922.v4.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.adventus",
+        "name": "Rádio Adventus",
+        "stream": "https://stream.zeno.fm/vlef1zpk8tmuv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/131915.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.valertv",
+        "name": "Rádio Valerfm",
+        "stream": "https://stream.zeno.fm/ub1fy05s538uv",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/7/114397.v9.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.hero",
+        "name": "Hero Radio (Angola)",
+        "stream": "https://a2.asurahosting.com:6790/angola.mp3",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/logo/4/139034.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.kuiabuefm",
+        "name": "Radio Kuia Bue",
+        "stream": "https://a11.asurahosting.com:7400/radio.aac",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/1/47681.v25.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.interkinoisangola",
+        "name": "Interkinois Angola",
+        "stream": "https://cast4.asurahosting.com/proxy/deograt3/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/150315.v1.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.centrodeangola",
+        "name": "Rádio Centro de Angola",
+        "stream": "http://stm6.xradios.com.br:6844/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/0/150530.v2.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.muzangala",
+        "name": "Radio Muzangala",
+        "stream": "http://108.59.11.81:10053/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/2/31702.v10.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.famastar",
+        "name": "Radio FamaStar",
+        "stream": "http://sirius.shoutca.st:8527/stream/;",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/8/31688.v5.png",
+        "country": "Angola"
+    },
+    {
+        "id": "ao.ecclesia",
+        "name": "Radio Ecclesia",
+        "stream": "https://mediaserv33.live-streams.nl:8089/stream",
+        "type": "mp3",
+        "image": "https://cdn.onlineradiobox.com/img/l/5/31685.v6.png",
+        "country": "Angola"
+    }
+]
