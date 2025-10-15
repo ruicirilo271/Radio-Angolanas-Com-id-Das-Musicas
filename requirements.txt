@@ -1,12 +1,5 @@
-Flask
-gunicorn
-requests
-beautifulsoup4
-pydub
-shazamio
-yt-dlp
-imageio-ffmpeg
-aiohttp
-asyncio
-
-
+Flask==2.3.4
+requests==2.31.0
+beautifulsoup4==4.12.2
+shazamio==0.8.1
+imageio-ffmpeg==0.6.1
