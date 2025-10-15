@@ -4,6 +4,8 @@ beautifulsoup4==4.12.2
 shazamio==0.8.1
 imageio-ffmpeg==0.6.0
 gunicorn==21.2.0
+pydub==0.25.1
+
 
 
 
